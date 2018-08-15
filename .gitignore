@@ -259,3 +259,8 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+
+#Large Files
+opencv_world342.dll
+opencv_world342d.dll
+shape_predictor_68_face_landmarks.dat
